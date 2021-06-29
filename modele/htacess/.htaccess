@@ -1,0 +1,4 @@
+AuthUserFile "/var/www/w67xbo/www/celia/schoolGame/modele/htacess/.htpasswd"
+AuthName "Accès protégé"
+AuthType Basic
+Require valid-user
